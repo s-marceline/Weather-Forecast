@@ -26,11 +26,11 @@ This project is a weather forecasting application built using Node.js and Expres
    npm start
 6. Open your browser and go to http://localhost:3001 to use the app.
 
-# Technologies Used
+## Technologies Used
 
 * Node.js: JavaScript runtime used for server-side development.
 * Express.js: Web application framework for Node.js.
 * Weather API: Provides weather data (e.g., OpenWeatherMap).
 
-# License
+## License
 This project is licensed under the MIT License.
